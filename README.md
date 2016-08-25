@@ -36,6 +36,9 @@ Ready.... Set..... Go!!!
 -   What new JavaScript feature allows you to set read-only constants in
     your code?
 
+-   What method can you call to get a list of all of the properties on an
+    object?
+
 ## 2 Points Each
 
 -   What method(s) would allow you to extract the string 'rag' from the string
@@ -49,10 +52,6 @@ Ready.... Set..... Go!!!
 
 -   What method can you call to fill all of the elements of an array with the
     same constant value?
-
--   `push` and `pop` allow you to add or remove (respectively) elements from the
-    _right_ side of an array. What two methods allow you to do the same for the
-    _left_ side of an array?
 
 ## 3 Points or More
 
