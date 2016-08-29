@@ -41,9 +41,6 @@ Ready.... Set..... Go!!!
 
 ## 2 Points Each
 
--   What method(s) would allow you to extract the string 'rag' from the string
-    'enrage'? 1 pt for each method.
-
 -   What Array method plugs every element in the array into a function, one at
     a time, and returns a new array containing the results?
 
