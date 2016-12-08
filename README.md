@@ -2,12 +2,13 @@
 
 # Documentation Treasure Hunt
 
+<!-- MATERIALS METADATA -->
 <!--
   title: MDN Documentation Treasure Hunt
-  type: lesson
-  estimated duration: 30 min
-  creator: Matt Brendzel
-  competencies: JavaScript, reading documentation
+  format: exercise
+  duration: 45 min
+  original author: Matt Brendzel
+  tags: core, javascript, documentation
 -->
 
 Today's we're going to be hunting for information in the Mozilla Developer
@@ -19,7 +20,6 @@ Each clue below has a certain number of points associated with finding the
 correct answer. If you're not sure, take a guess, since you won't lose points
 if you're wrong.
 
-The team with the most points after 30 minutes wins!
 Ready.... Set..... Go!!!
 
 ## 1 Point Each
